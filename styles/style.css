@@ -1,0 +1,21 @@
+* {
+    font-family: "Kantumruy Pro",sans-serif,serif;
+}
+.card{
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    -webkit-transform: scale(1.05); /* Chrome, Safari, Opera */
+    transform: scale(1.05);
+}
+.profile{
+    transition: transform 0.3s ease;
+}
+
+.profile:hover {
+    -webkit-transform: scale(1.05); /* Chrome, Safari, Opera */
+    transform: scale(1.05);
+}
+
+  
